@@ -1,0 +1,101 @@
+1ra quincena
+Lunes
+**********
+Desayuno: Agua
+Almuerzo: Zanahoria
+Merienda: Te
+Cena: Apio
+			
+Martes
+**********
+Desayuno: Mate
+Almuerzo: Lechuga
+Merienda: Cafe
+Cena: Cebolla
+				
+Miercoles
+**********
+Desayuno: Te
+Almuerzo: Apio
+Merienda: Agua
+Cena: Zanahoria
+				
+Jueves
+**********
+Desayuno: Cafe
+Almuerzo: Cebolla
+Merienda: Mate
+Cena: Lechuga
+				
+Viernes
+**********
+Desayuno: Agua
+Almuerzo: Zanahoria
+Merienda: Te
+Cena: Apio"
+
+Sabado
+**********
+Desayuno: Mate
+Almuerzo: Lechuga
+Merienda: Cafe
+Cena: Cebolla
+				        
+Domingo
+**********
+Desayuno: Yogurt
+Almuerzo: Tostada
+Merienda: Granola
+Cena: Papa
+
+2da quincena
+Lunes
+**********
+Desayuno: Medialunas
+Almuerzo: Asado
+Merienda: Torta
+Cena: Ravioles
+				
+Martes
+**********
+Desayuno: Alfajor
+Almuerzo: Milanesa
+Merienda: Chocolatada
+Cena: Canelones
+				
+Miercoles
+**********
+Desayuno: Torta
+Almuerzo: Ravioles
+Merienda: Medialunas
+Cena: Asado
+				
+Jueves
+**********
+Desayuno: Chocolatada
+Almuerzo: Canelones
+Merienda: Alfajor
+Cena: Milanesa
+				
+Viernes
+**********
+Desayuno: Medialunas
+Almuerzo: Asado
+Merienda: Torta
+Cena: Ravioles
+				
+Sabado
+**********
+Desayuno: Alfajor
+Almuerzo: Milanesa
+Merienda: Chocolatada
+Cena: Canelones
+				
+Domingo
+**********
+Desayuno: Facturas
+Almuerzo: Risoto
+Merienda: Capuchino
+Cena: Pollo
+				
+			

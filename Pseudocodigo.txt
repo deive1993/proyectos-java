@@ -1,0 +1,21 @@
+Ejercicio de sumas
+
+Inicio
+Declaro entero numero1=10
+Declaro entero numero2=15
+Declaro entero suma= entero1+entero2
+Imprimo "La suma de los numeros es"+suma
+si SI suma > 20
+Imprimo "La suma es mayor a 20"
+Si no
+Imprimo "La suma no es mayor a 20"
+Fin
+
+------------------------------------------
+Ejericio de FOR
+
+Inicio
+Contar NUMERO=0, hasta que NUMERO sea <=10, aumento NUMERO en 1
+Imprimir "El numero es" + NUMERO
+Finaliza cuando NUMERO supera el limite establecido
+Fin
